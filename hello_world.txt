@@ -1,0 +1,8 @@
+Hello world!
+
+Lately i'm learning about vim, and it's an awesome tool.
+I don't know how I've gone so long without using it.
+It's such a great tool, i think it should be mandatory
+teaching in school!
+
+Have you tried vim yet ?
