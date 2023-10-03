@@ -6,3 +6,5 @@ It's such a great tool, i think it should be mandatory
 teaching in school!
 
 Have you tried vim yet ?
+
+- Brian
